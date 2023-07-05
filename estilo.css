@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,700;1,900&family=Ubuntu:wght@700&display=swap');
+
+/* font-family: 'Roboto', sans-serif;
+  font-family: 'Ubuntu', sans-serif; */
+
+
+
+main {
+  width: 100%;
+
+
+}
+
+header {
+  background-color: #B31312;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  margin-left: 40px;
+  margin-right: 40px;
+  border-radius: 5px;
+  border-style: outset;
+  box-shadow: 1px 1px 1px 1px black;
+}
+
+h1 {
+  padding-left: 20px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 18pt;
+  font-style: italic;
+
+}
+
+.container {
+
+  padding-top: 5px;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  /* padding-left: 30px; */
+  border-radius: 5px;
+  border-color: black;
+  box-shadow: 1px 1px 1px 1px black;
+  height: 150x;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+
+
+p {
+  font-weight: bold;
+  text-align: justify;
+  padding-left: 20px;
+  padding-right: 15px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 13pt;
+}
