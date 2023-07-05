@@ -56,5 +56,5 @@ p {
   padding-left: 20px;
   padding-right: 15px;
   font-family: 'Roboto', sans-serif;
-  font-size: 13pt;
+  font-size: clamp(1.25em, 1em + 3vw, 1.0em);
 }
